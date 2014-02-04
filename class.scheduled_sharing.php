@@ -4,7 +4,7 @@
 The purpose of this class is to manage scheduled events.
 
 
-Irfan Rasool
+Irfan Shah
 */
 
 class scheduled_sharing{
